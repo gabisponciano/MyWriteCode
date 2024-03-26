@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">writeCode</string>
+    <string name="text_header">Cardápio Digital</string>
+    <string name="text_subheader">O pedido será selecionado marcando e desmarcando os itens</string>
+    <string name="text_plates">Pratos da casa</string>
+    <string name="text_foods">Hambuguer Mata Fome</string>
+    <string name="text_waitMataFome">Tempo de espera médio: 30 minutos</string>
+    <string name="text_matafome">R$23,00</string>
+    <string name="text_foods1">Hambuguer Supremo</string>
+    <string name="text_waitSupremo">Tempo de espera médio: 35 minutos</string>
+    <string name="text_supremo">R$35,00</string>
+    <string name="text_foods2">Porção de Batada Frita</string>
+    <string name="text_waitBatataFrita">Tempo de espera médio: 20 minutos</string>
+    <string name="text_batata">R$17,00</string>
+    <string name="text_foods3">Cachorro-quente</string>
+    <string name="text_waitCachorroQuente">Tempo de espera médio: 30 minutos</string>
+    <string name="text_cachorroquente">R$21,00</string>
+    <string name="text_drinks">Bebidas</string>
+    <string name="text_drinks1">Refrigerante (Lata)</string>
+    <string name="text_Sodaflavors">Coca-cola, Guaraná e Sprite</string>
+    <string name="text_priceSoda">R$6,00</string>
+    <string name="text_drinks2">Suco </string>
+    <string name="text_Juiceflavors">Laranja, Limão e Maracujá</string>
+    <string name="text_priceJuice">R$6,50</string>
+    <string name="text_drinks3">Água</string>
+    <string name="text_waterflavors">Com gás e Sem gás</string>
+    <string name="text_priceWater">R$3,50</string>
+    <string name="edit_drinksflavors"> Digite o sabor da bebida ou marca de refrigerante </string>
+    <string name="edit_sugestions">Digite aqui suas observações, tais como alergias </string>
+    <string name="button_calculate">Calcular Valor </string>
+    <string name="text_results">R$ 0 </string>
+    <string name="button_ready">Fazer Pedido </string>
+    <string name="no_order">Nenhum prato ou bebida selecionado </string>
+    <string name="did_order">Seu pedido foi enviado para o balcão do restaurante </string>
+
+</resources>
